@@ -1,0 +1,8 @@
+{
+  "name": "Photo Prompt Architect",
+  "description": "Analyzes photos to generate ultra-realistic, copy-ready AI image prompts mimicking iPhone 15 Pro Max photography.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
